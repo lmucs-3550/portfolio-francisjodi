@@ -4,13 +4,13 @@
 
 ## Network exploration
 
-* [Map](network-exploration/map/README.md)
-  * [Process](network-exploration/map/process.md)
-  * [Log](network-exploration/map/log.md)
-  * [Map](network-exploration/map/map.md)
+* [🗺 Map](network-exploration/map/README.md)
+  * [🤔 Process](network-exploration/map/process.md)
+  * [👨💻 Log](network-exploration/map/log.md)
+  * [🔗 Map](network-exploration/map/map.md)
 * [Packet analysis](network-exploration/packet-analysis/README.md)
-  * [Process](network-exploration/packet-analysis/process.md)
-  * [Results](network-exploration/packet-analysis/results.md)
+  * [🤔 Process](network-exploration/packet-analysis/process.md)
+  * [☑ Results](network-exploration/packet-analysis/results.md)
 
 ## Participation & engagement
 
@@ -23,3 +23,7 @@
 * [Weeks 7-9](reflections/weeks-7-9.md)
 * [Weeks 10-12](reflections/weeks-10-12.md)
 * [Weeks 13-15](reflections/weeks-13-15.md)
+
+***
+
+* [⁉ How to Fix your Internet](how-to-fix-your-internet.md)

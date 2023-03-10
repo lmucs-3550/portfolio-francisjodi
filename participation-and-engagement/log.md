@@ -14,5 +14,5 @@ description: Log of participation in class community spaces
 | Date        | Topic               | Type | Link (if applicable)                                                                                                                             |
 | ----------- | ------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | feb 14,2023 | Crypto dispalce USD | C    | [https://www.washingtonpost.com/business/2022/01/12/crypto-versus-cash/](https://www.washingtonpost.com/business/2022/01/12/crypto-versus-cash/) |
-|             |                     |      |                                                                                                                                                  |
+|             |                     | C    |                                                                                                                                                  |
 |             |                     |      |                                                                                                                                                  |

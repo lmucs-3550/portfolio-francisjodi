@@ -10,3 +10,8 @@ description: Feb 20–Mar 17 (enjoy spring break!)
 * ip's&#x20;
 * midterm activity&#x20;
 * final project ideation&#x20;
+
+
+
+march 14: linking networks, paths networks take&#x20;
+

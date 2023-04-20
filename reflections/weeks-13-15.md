@@ -13,8 +13,13 @@ working on the final project&#x20;
 * centralized vs decentralized&#x20;
   * centralized has some controlled entity&#x20;
   * decentralized there is no one specific coordination&#x20;
-
-
-
 * information online vs library
-* using internet on mars??&#x20;
+* using the internet on Mars??&#x20;
+
+
+
+
+
+The GitHub link below is my portfolio which I also attempted the flappy bird tutorial for ip4. This was super cool. bringing back childhood memories once again and tying in everything.&#x20;
+
+{% embed url="https://github.com/lmucs-3550/portfolio-francisjodi" %}

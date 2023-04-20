@@ -10,7 +10,9 @@ Caught the tail end of the mozfest and they talked a bit about how back in the d
 
 * Project 3
 
-Did more work on project 3, especially after finalizing the idea with Professor. which we decided on analyzing transportation networks. This was a very cool topic to find out about, especially since i was just about to hop on plane to attend a family funeral&#x20;
+Did more work on project 3, especially after finalizing the idea with Professor. which we decided on analyzing transportation networks. This was a very cool topic to find out about, especially since i was just about to hop on plane to attend a family funeral.&#x20;
+
+presented on this topic and found some fascinating this that I also taught my family on the plane, especially being so upset about the wifi not working on my 9+ hour flight. :( &#x20;
 
 
 

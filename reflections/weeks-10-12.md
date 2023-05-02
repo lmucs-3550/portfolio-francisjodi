@@ -4,13 +4,13 @@ description: Mar 20–Apr 7
 
 # Weeks 10-12
 
-Caught the tail end of the mozfest and they talked a bit about how back in the days amazon was not a thing it is nice to see how technology has helped us evolve and the way the internet helps us in life. PS the French toasts were sooo good!&#x20;
+Caught the tail end of the mozfest and they talked a bit about how back in the day amazon was not a thing it is nice to see how technology has helped us evolve and the way the internet helps us in life. PS The French toasts were sooo good!&#x20;
 
 
 
 * Project 3
 
-Did more work on project 3, especially after finalizing the idea with Professor. which we decided on analyzing transportation networks. This was a very cool topic to find out about, especially since i was just about to hop on plane to attend a family funeral.&#x20;
+Did more work on Project 3, especially after finalizing the idea with Professor. which we decided on analyzing transportation networks. This was a very cool topic to find out about, especially since i was just about to hop on a plane to attend a family funeral.&#x20;
 
 presented on this topic and found some fascinating this that I also taught my family on the plane, especially being so upset about the wifi not working on my 9+ hour flight. :( &#x20;
 

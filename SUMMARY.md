@@ -10,7 +10,6 @@
   * [Map](network-exploration/map/map.md)
 * [📦 Packet analysis](network-exploration/packet-analysis/README.md)
   * [Process](network-exploration/packet-analysis/process.md)
-  * [Results](network-exploration/packet-analysis/results.md)
 
 ## Participation & engagement
 
@@ -34,16 +33,17 @@
 * [🤖 Chat bot](network-services/chat-bot/README.md)
   * [Github](https://github.com/lmucs-3550/network-service-j-e-f-p)
   * [Process](network-services/chat-bot/process.md)
-  * [Log](network-services/chat-bot/log.md)
   * [Results](network-services/chat-bot/results.md)
 * [References](network-services/references.md)
 
 ## Final Project&#x20;
 
-* [🛂 Public Transportaion  networks](final-project/page-1.md)
-  * [🎆 Data service coverage](final-project/public-transportaion-networks/data-service-coverage.md)
-  * [🚘 Car networks](final-project/public-transportaion-networks/car-networks.md)
-  * [🛤 Train Networks](final-project/public-transportaion-networks/train-networks.md)
-* [Page 1](<final-project/page-1 (1).md>)
-* [➖ Disconnection](final-project/disconnection.md)
-* [Untitled](final-project/untitled.md)
+* [🛂 Transportation  networks](final-project/transportation-networks/README.md)
+  * [🎆 Data service coverage](final-project/transportation-networks/data-service-coverage.md)
+  * [🚘 Car networks](final-project/transportation-networks/car-networks.md)
+  * [🛤 Train Networks](final-project/transportation-networks/train-networks.md)
+* [References](final-project/references.md)
+
+***
+
+* [Other works](other-works.md)

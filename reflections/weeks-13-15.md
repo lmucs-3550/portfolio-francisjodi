@@ -6,7 +6,7 @@ description: Apr 10–28
 
 * Final project
 
-working on the final project&#x20;
+working on the final project. analyzing transportation networks focusing on trains and autonomous cars &#x20;
 
 
 
